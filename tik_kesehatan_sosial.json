@@ -1,0 +1,273 @@
+{
+  "database_kerangka_asesmen_smk_mak": [
+    {
+      "materi": {
+        "nama": "TKA Pengembangan Perangkat Lunak dan Gim (PPLG) SMK/MAK",
+        "fokus": "Pengembangan Perangkat Lunak dan Gim",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Mengidentifikasi profesi bidang PPLG, tahapan dasar manajemen proyek, menjelaskan konsep kewirausahaan, K3LH, budaya mutu, serta menentukan pengelolaan file dan direktori proyek pada sistem operasi."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menggunakan konfigurasi dasar lingkungan pengembangan, prosedur pengelolaan aset, konsep class dan object, serta relasi arsitektur jaringan client-server dan protokol TCP/IP."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis pembagian fungsi atau prosedur dalam pemrograman terstruktur, mengevaluasi efektivitas struktur kontrol dan desain modular, serta menganalisis penggunaan access modifier, enkapsulasi, inheritance, dan polymorphism."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang PPLG",
+            "Kecakapan kerja dasar (basic job skills), K3, dan budaya kerja",
+            "Teknologi Jaringan Komputer dalam PPLG",
+            "Pemrograman Terstruktur",
+            "Pemrograman Berorientasi Objek (OOP)"
+          ],
+          "lingkup_teknologi": "Algoritma, struktur data, percabangan, perulangan, fungsi/prosedur, modularisasi, class, object, TCP/IP, HTTP/HTTPS, dan pengelolaan aset digital."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Menganalisis pembagian fungsi atau prosedur dalam program terstruktur serta mengevaluasi efektivitas desain modular",
+          "subkompetensi": "Pemrograman Terstruktur - Modularisasi Program",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Perhatikan fungsi berikut: def hitung(a, b): return (a + b) * 2; def proses(x): return hitung(x, x + 1) - x. Agar output program print(nilai) menghasilkan angka 11, maka kode yang harus dilengkapi pada baris penetapan variabel nilai adalah...",
+          "pilihan": [
+            "A. nilai = proses(3)",
+            "B. nilai = hitung(5,6)",
+            "C. nilai = proses(11)",
+            "D. nilai = proses(hitung(3,0))",
+            "E. nilai = hitung(11,0)"
+          ],
+          "kunci": "A"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Teknik Jaringan Komputer dan Telekomunikasi (TJKT) SMK/MAK",
+        "fokus": "Teknik Jaringan Komputer dan Telekomunikasi",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Mengidentifikasi jenis profesi/jabatan kerja di bidang TJKT, alur kerja, proses bisnis layanan, perkembangan industri, budaya kerja, media transmisi (UTP/STP, Fiber Optik) beserta karakteristiknya, perangkat jaringan, model OSI/TCP-IP, serta menentukan prosedur pemeliharaan dan penyimpanan alat ukur jaringan berdasarkan SOP."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan sistem operasi, layanan jaringan dasar pada infrastruktur TJKT secara mandiri dan sesuai standar operasional, prinsip K3LH/K3BK, konfigurasi media transmisi, serta penggunaan alat ukur jaringan."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis alur kerja, proses bisnis layanan, budaya kerja dan K3BK, mengkritisi kelebihan dan kekurangan topologi serta arsitektur jaringan dari aspek kinerja, biaya, dan keandalan, serta menganalisis prosedur penggunaan dan pemeliharaan alat ukur jaringan sesuai SOP."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang teknik jaringan komputer dan telekomunikasi",
+            "Kecakapan kerja dasar (basic job skills), K3, dan budaya kerja",
+            "Media dan jaringan telekomunikasi",
+            "Penggunaan alat ukur jaringan"
+          ],
+          "lingkup_teknologi": "3G/4G/5G, VSAT, Microwave Link, Fiber Optik, IPv6, Data Center, Layanan IoT, Cloud Computing, Keamanan Jaringan, Router, Switch, Virtualisasi, dan Server."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Mengidentifikasi jenis profesi atau jabatan kerja di bidang TJKT secara tepat",
+          "subkompetensi": "Wawasan Dunia Kerja Bidang TJKT - Jenis profesi dan jabatan kerja",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Seorang lulusan SMK TJKT bekerja di perusahaan penyedia jasa internet (ISP). Tugas utamanya adalah merancang jalur kabel fiber optik utama dan menentukan penempatan ODC/ODP di area perumahan baru. Berdasarkan deskripsi tugas tersebut, jenis profesi yang paling sesuai adalah...",
+          "pilihan": [
+            "A. Teknisi instalasi fiber optik",
+            "B. Network planner / perencana jaringan",
+            "C. Teknisi pemeliharaan jaringan",
+            "D. Customer service layanan jaringan",
+            "E. Teknisi pengujian jaringan"
+          ],
+          "kunci": "B"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Layanan Kesehatan SMK/MAK",
+        "fokus": "Layanan Kesehatan",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Mengidentifikasi profesi/jabatan kerja layanan kesehatan, perkembangan teknologi kesehatan, konsep Anatomi Fisiologi Manusia (Anfis), serta istilah dan tahapan komunikasi terapeutik."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan prinsip K3LH/K3BK di lingkungan fasilitas pelayanan kesehatan, penggunaan APD, prosedur pencegahan infeksi nosokomial, pelaksanaan tindakan pemenuhan kebutuhan dasar manusia (mobilisasi, nutrisi, personal hygiene), serta komunikasi efektif dengan pasien/klien."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis kondisi klinis pasien berdasarkan pemeriksaan Tanda-Tanda Vital (TTV), mengevaluasi penerapan K3LH pada situasi darurat, serta merencanakan tindakan asuhan keperawatan dasar yang tepat sesuai kondisi klien."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang layanan kesehatan",
+            "Kecakapan kerja dasar (basic job skills), K3LH, dan budaya kerja",
+            "Anatomi dan Fisiologi Manusia",
+            "Pemenuhan Kebutuhan Dasar Manusia",
+            "Komunikasi Terapeutik"
+          ],
+          "lingkup_teknologi": "Pemeriksaan Tanda-Tanda Vital (TTV), APD, sterilisasi/desinfeksi, pemenuhan nutrisi/eliminasi, mobilisasi pasien, serta komunikasi kesehatan."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Menerapkan prinsip K3LH dan pencegahan infeksi di fasilitas layanan kesehatan",
+          "subkompetensi": "K3LH - Penggunaan Alat Pelindung Diri (APD)",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Seorang asisten tenaga kesehatan akan melakukan tindakan perawatan luka terkontaminasi pada pasien di ruang rawat inap. Urutan prosedur tindakan pencegahan infeksi dan penggunaan APD yang paling tepat sebelum menyentuh luka pasien adalah...",
+          "pilihan": [
+            "A. Mencuci tangan dengan sabun, memakai sarung tangan bersih, memakai gaun pelindung",
+            "B. Memakai sarung tangan steril langsung tanpa mencuci tangan terlebih dahulu",
+            "C. Mencuci tangan 6 langkah, memakai masker, gaun pelindung, dan sarung tangan steril",
+            "D. Menggunakan handrub berbasis alkohol lalu langsung melakukan tindakan tanpa sarung tangan",
+            "E. Memakai masker dan sarung tangan rumah tangga tanpa mencuci tangan"
+          ],
+          "kunci": "C"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Teknik Laboratorium Medik SMK/MAK",
+        "fokus": "Teknik Laboratorium Medik",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Mengidentifikasi alur kerja laboratorium klinis, peralatan analisis (mikroskop, sentrifus, fotometer), jenis reagen/bahan kimia laboratorium, serta prinsip biosafety dan biosecurity."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan penanganan spesimen (flebotomi, penampungan, pengawetan), pengoperasian dan perawatan alat laboratorium dasar, serta penerapan K3 dan pengelolaan limbah medis B3."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis potensi kesalahan pra-analitik, analitik, dan pasca-analitik, mengevaluasi hasil kontrol kualitas laboratorium, serta menganalisis penanganan spesimen yang rusak/hemolisis."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja laboratorium medik",
+            "Kecakapan kerja dasar (basic job skills), K3LH, Biosafety & Biosecurity",
+            "Peralatan Laboratorium Medik",
+            "Tahapan Analisis Spesimen (Pra-analitik, Analitik, Pasca-analitik)",
+            "Pengelolaan Limbah Medis B3"
+          ],
+          "lingkup_teknologi": "Flebotomi, mikroskopis, sentrifugasi, otomatisasi analisis hematologi/kimia klinik, pembuangan limbah B3, dan Good Laboratory Practice (GLP)."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Menganalisis kesalahan pada tahap pra-analitik dalam pemeriksaan laboratorium medik",
+          "subkompetensi": "Tahapan Analisis Spesimen - Pra-analitik Flebotomi",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Pada spesimen darah vena yang diterima oleh bagian laboratorium, ditemukan sampel mengalami hemolisis cukup berat setelah diputar menggunakan sentrifus. Faktor yang paling mungkin menjadi penyebab utama terjadinya hemolisis pada tahap pengambilan darah adalah...",
+          "pilihan": [
+            "A. Penggunaan jarum dengan ukuran terlalu besar (18G)",
+            "B. Penarikan pendorong spuit terlalu cepat atau pengocokan tabung EDTA terlalu kuat",
+            "C. Penyimpanan sampel pada suhu 4 derajat Celcius sebelum pemeriksaan",
+            "D. Penggunaan tabung bertekanan hampa (vacutainer)",
+            "E. Pembendungan pembuluh darah (tourniquet) kurang dari 1 menit"
+          ],
+          "kunci": "B"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Teknologi Farmasi SMK/MAK",
+        "fokus": "Teknologi Farmasi",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Mengidentifikasi jenis resep, nama latin dalam resep, penggolongan obat (Bebas, Bebas Terbatas, Keras, Narkotika/Psikotropika), serta prinsip Dasar-Dasar Kefarmasian dan CPOB/CDOB."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan peracikan sediaan farmasi (padat, setengah padat, cair), perhitungan dosis lazim/maksimum obat, penulisan etiket/label obat, serta tata kelola penyimpanan obat di apotek/RS."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis keabsahan dan kelengkapan resep dokter, menganalisis inkompatibilitas dalam peracikan obat, serta mengevaluasi stabilitas dan batas kadaluwarsa (Beyond Use Date) sediaan."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang farmasi dan pelayanan kefarmasian",
+            "Kecakapan kerja dasar (basic job skills), K3LH, dan CPOB/CDOB",
+            "Pelayanan Resep dan Perhitungan Dosis",
+            "Teknologi Pembuatan Sediaan Farmasi (Pulvis, Unguentum, Sirup, Solutio)",
+            "Farmakognosi dan Simplisia"
+          ],
+          "lingkup_teknologi": "Resep dokter, etiket obat, kalkulasi dosis anak/dewasa, Beyond Use Date (BUD), CPOB, CDOB, dan simplisia tanaman obat."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Menerapkan perhitungan dosis obat dan peracikan sediaan farmasi",
+          "subkompetensi": "Pelayanan Resep - Perhitungan Dosis Maksimum",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Sebuah resep memuat instruksi: R/ Parasetamol 200 mg, CTM 2 mg, m.f. pulv. dtd. No. X. S.t.d.d. pulv I. Jika pasien berusia 6 tahun (DM CTM sekali 4 mg, sehari 16 mg) menggunakan rumus Young [n / (n + 12)], maka persentase Dosis Maksimum CTM sehari yang dikonsumsi pasien tersebut adalah...",
+          "pilihan": [
+            "A. 112,5%",
+            "B. 80,0%",
+            "C. 67,5%",
+            "D. 114,3%",
+            "E. 50,0%"
+          ],
+          "kunci": "D"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Pekerjaan Sosial SMK/MAK",
+        "fokus": "Pekerjaan Sosial",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Mengidentifikasi profesi dan bidang garapan pekerjaan sosial, jenis Pemerlu Pelayanan Kesejahteraan Sosial (PPKS), serta nilai, etika, dan prinsip dasar Pekerjaan Sosial."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan tahapan intervensi kualitatif/kuantitatif mikro, mezzo, dan makro, pengumpulan data asesmen sosial, wawancara/relasi pertolongan, serta pendokumentasian kasus."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis dinamika masalah sosial PPKS, merumuskan rencana penanganan/rujukan, serta mengevaluasi keberhasilan proses pendampingan sosial."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang pekerjaan sosial dan pelayanan Kesejahteraan Sosial",
+            "Kecakapan kerja dasar (basic job skills), K3LH, dan Etika Profesi",
+            "Tahapan Pertolongan Pekerjaan Sosial (Asesmen, Rencana Intervensi, Evaluasi)",
+            "Ragam PPKS (Anak Terlantar, Lansia, Disabilitas, Korban Bencana)",
+            "Komunikasi Relasi Pertolongan"
+          ],
+          "lingkup_teknologi": "Asesmen sosial, genogram, ecomap, wawancara motivasional, rujukan (referral), sistem sumber kesejahteraan sosial, dan advokasi sosial."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Menerapkan tahapan asesmen dan relasi pertolongan dalam pekerjaan sosial",
+          "subkompetensi": "Tahapan Pertolongan Pekerjaan Sosial - Asesmen Masalah",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Seorang pekerja sosial pemula ditugaskan untuk melakukan penggalian data mengenai hubungan interaksi keluarga dan dukungan lingkungan sosial dari seorang anak yang mengalami trauma. Alat asesmen visual yang paling efektif digunakan untuk memetakan hubungan anak tersebut dengan sistem sumber di luar keluarganya adalah...",
+          "pilihan": [
+            "A. Genogram",
+            "B. Ecomap",
+            "C. Sosiogram",
+            "D. Timeline grafik usia",
+            "E. Matriks SWOT"
+          ],
+          "kunci": "B"
+        }
+      }
+    }
+  ]
+}
