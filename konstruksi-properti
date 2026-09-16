@@ -1,0 +1,230 @@
+{
+  "database_kerangka_asesmen_smk_mak": [
+    {
+      "materi": {
+        "nama": "TKA Teknik Perawatan Gedung SMK/MAK",
+        "fokus": "Teknik Perawatan Gedung",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Memahami proses bisnis, SOP, job profile, identifikasi jenis dan spesifikasi bahan bangunan (termasuk green material), serta standar dan prinsip dasar gambar teknik."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan kecakapan kerja dasar dan K3LH, konsep statika bangunan secara kualitatif, memilih bahan bangunan, mengoperasikan peralatan kerja, serta membaca/menafsirkan gambar teknik."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Membandingkan dan mengevaluasi penerapan K3LH, kestabilan struktur bangunan, kesesuaian bahan green building, kualitas layanan, dan informasi gambar teknik untuk menentukan tindakan perawatan yang tepat."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang perawatan gedung",
+            "Kecakapan kerja dasar (basic job skills), K3LH dan budaya kerja",
+            "Statika bangunan",
+            "Dasar konstruksi bangunan",
+            "Gambar teknik"
+          ],
+          "lingkup_teknologi": "Proses bisnis perawatan gedung, green material, K3LH, statika bangunan, gambar teknik 2D/3D, dan peralatan pemeliharaan gedung."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Memahami proses bisnis, SOP dan job profile bidang perawatan gedung",
+          "subkompetensi": "Wawasan Dunia Kerja - Proses bisnis",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Seorang teknisi perawatan gedung menerima laporan adanya beberapa kerusakan pada fasilitas gedung, seperti kebocoran atap, retak dinding, dan kerusakan instalasi listrik ringan. Berdasarkan kondisi tersebut, Kegiatan awal yang paling tepat dilakukan sebelum pekerjaan perawatan dimulai adalah …",
+          "pilihan": [
+            "A. Melakukan pembayaran jasa kepada pihak terkait",
+            "B. Mengidentifikasi dan menganalisis kondisi serta jenis kerusakan bangunan",
+            "C. Mengganti seluruh komponen bangunan yang mengalami kerusakan",
+            "D. Menyiapkan alat dan bahan pekerjaan yang akan digunakan",
+            "E. Membersihkan area kerja sebelum melakukan pemeriksaan awal"
+          ],
+          "kunci": "B"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Konstruksi dan Perawatan Bangunan Sipil SMK/MAK",
+        "fokus": "Konstruksi dan Perawatan Bangunan Sipil",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Memahami perkembangan dunia kerja praktisi jasa konstruksi (konsultan, kontraktor, pengawas), dasar konstruksi bangunan sipil, karakteristik bahan, dan statika."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menghitung beban dan reaksi perletakan sederhana, menerapkan prosedur pengoperasian peralatan ukur tanah (waterpass/theodolite), standar gambar teknik, serta prinsip K3LH dan aspek legal."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis konstruksi bangunan sipil, struktur statis tertentu, hasil pengolahan data pengukuran, serta penyajian gambar kerja."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja pada bidang jasa konstruksi dan perawatan bangunan sipil",
+            "Statika bangunan",
+            "Dasar konstruksi bangunan",
+            "Ukur tanah",
+            "Gambar teknik"
+          ],
+          "lingkup_teknologi": "Perizinan usaha berbasis risiko (PP 14/2021), campuran beton, waterpass, theodolite, AutoCAD, serta struktur gedung, jalan, dan jembatan."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Memahami perkembangan dunia kerja praktisi jasa konstruksi",
+          "subkompetensi": "Wawasan Dunia Kerja Pada Bidang Jasa Konstruksi dan Perawatan Bangunan Sipil",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Seorang tenaga teknis bertugas melakukan evaluasi terhadap volume pekerjaan yang telah terealisasi, menghitung kebutuhan material untuk progres minggu depan, serta menyusun laporan progres biaya (cost control) kepada Project Manager. Berdasarkan deskripsi di atas, posisi yang paling tepat untuk staf tersebut adalah...",
+          "pilihan": [
+            "A. Site Engineer",
+            "B. Quality Control",
+            "C. Quantity Surveyor",
+            "D. Logistic Officer",
+            "E. Drafter"
+          ],
+          "kunci": "C"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Teknik Konstruksi dan Perumahan SMK/MAK",
+        "fokus": "Teknik Konstruksi dan Perumahan",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Mengidentifikasi dan menjelaskan istilah, bagian, simbol, jenis pekerjaan, alat, bahan, elemen struktur, K3LH, dan standar dasar konstruksi perumahan."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan prosedur kerja, mengoperasikan peralatan manual/digital, menghitung beban/gaya sederhana dan hasil ukur tanah, serta menggunakan aplikasi CAD 2D."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis dan mengevaluasi hubungan antar konsep, metode kerja, perhitungan statika, kesesuaian gambar teknik, serta isu green building dan sustainable building."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang konstruksi dan perumahan",
+            "Kecakapan dasar kerja (basic job skill), K3LH, dan budaya kerja",
+            "Perhitungan statika bangunan",
+            "Ukur tanah",
+            "Gambar teknik"
+          ],
+          "lingkup_teknologi": "Konsep green building, material ramah lingkungan, alat tangan/ukur, statika rangka sederhana, CAD 2D, dan budaya kerja 5R."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Mengidentifikasi dan mengklasifikasikan ruang lingkup pekerjaan konstruksi dan perumahan berdasarkan tahapan dan jenis pekerjaan",
+          "subkompetensi": "Wawasan Dunia Kerja Bidang Konstruksi dan Perumahan - Lingkup pekerjaan",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Pada pelaksanaan pembangunan rumah, tim pelaksana melakukan serangkaian kegiatan di lokasi proyek. Area yang sebelumnya berupa lahan kosong tidak terawat ditata dengan cara membersihkan semak belukar, meratakan sebagian permukaan tanah, serta menyingkirkan material yang dapat mengganggu proses pembangunan. Setelah itu, dilakukan pengukuran lokasi untuk menentukan batas-batas bangunan sesuai gambar rencana. Beberapa patok dipasang sebagai penanda titik-titik penting, dan benang ditarik untuk membantu menentukan posisi bangunan. Selain itu, peralatan kerja yang diperlukan mulai dipersiapkan agar proses pembangunan dapat berjalan lancar. Dari deskripsi di atas tahapan yang dilakukan dalam pembangunan rumah tersebut adalah …",
+          "pilihan": [
+            "A. Pekerjaan Dinding",
+            "B. Pekerjaan Persiapan",
+            "C. Pekerjaan Atap",
+            "D. Pekerjaan Struktur",
+            "E. Pekerjaan Perapian"
+          ],
+          "kunci": "B"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Desain Pemodelan dan Informasi Bangunan (DPIB) SMK/MAK",
+        "fokus": "Desain Pemodelan dan Informasi Bangunan",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Menjelaskan dan mengidentifikasi informasi geometris & non-geometris dalam sistem informasi bangunan, jenis pekerjaan konstruksi, serta isu green building."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menggunakan dan mengoperasikan tools dasar aplikasi CAD/BIM (2D/3D), mengoperasikan alat ukur tanah (analog/digital), serta menghitung keseimbangan gaya statika."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Mengevaluasi konsistensi antara model 3D dan data informasi bangunan (BIM), menganalisis gambar kerja (denah, tampak, potongan) sesuai standar, serta merencanakan program kerja konstruksi."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang desain pemodelan dan informasi bangunan",
+            "Kecakapan kerja dasar (basic job skills), K3LH dan budaya kerja",
+            "Gambar teknik dan building information modeling (BIM)",
+            "Perhitungan statika bangunan",
+            "Dasar konstruksi bangunan"
+          ],
+          "lingkup_teknologi": "Building Information Modeling (BIM), CAD 2D/3D, alat ukur beda tinggi & koordinat, perhitungan gaya batang, serta green building."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Memahami, menerapkan dan menganalisis pengoperasian dan perawatan alat ukur",
+          "subkompetensi": "Kecakapan Kerja Dasar - Pengoperasian dan perawatan alat ukur",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Sebuah perusahaan konstruksi akan membangun gedung perkantoran baru di atas sebidang tanah kosong. Sebelum desain arsitektur difinalisasi, tim survei pemetaan (surveyor) perlu menentukan batas-batas tanah secara presisi, menentukan posisi koordinat (x,y) untuk sudut-sudut bidang tanah, serta mengukur beda tinggi tanah. Surveyor memerlukan data sudut horizontal untuk menentukan arah batas tanah (azimuth) dan data sudut vertikal untuk menghitung jarak datar yang akurat dari jarak miring pada lahan berbukit. Alat optik yang digunakan untuk mengukur sudut horizontal dan sudut vertikal dalam penentuan posisi koordinat (x,y) adalah...",
+          "pilihan": [
+            "A. Waterpass",
+            "B. Pita ukur",
+            "C. Theodolite",
+            "D. Barometer",
+            "E. Rambu ukur"
+          ],
+          "kunci": "C"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Teknik Furnitur SMK/MAK",
+        "fokus": "Teknik Furnitur",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Mengidentifikasi jenis jabatan profesi di industri furnitur, sifat/mutu kayu, standar gambar teknik, serta mendeskripsikan prinsip eco-friendly dan sustainability."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan prinsip gambar proyeksi/piktorial, mengoperasikan peralatan manual dan masinal (table saw, thicknesser, CNC), mengoperasikan AutoCAD 2D & SketchUp 3D, serta menghitung kubikasi dan RAB."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis dan menelaah masalah pembuatan sambungan kayu, pemilihan jenis kayu/finishing (solvent vs water-based), serta efektivitas perawatan peralatan masinal."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang furnitur",
+            "Kecakapan kerja dasar (basic job skills), K3LH, dan budaya kerja industri",
+            "Gambar teknik",
+            "Pemilihan kayu untuk produksi furnitur",
+            "Pembuatan sambungan kayu dengan peralatan tangan dan mesin",
+            "Perawatan peralatan tangan dan mesin"
+          ],
+          "lingkup_teknologi": "AutoCAD, SketchUp 3D, CAM-CNC, mesin kayu (thicknesser, table saw), teknik finishing (solvent/water-based), dan prinsip 5R."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Memahami dan menerapkan prosedur pengoperasian peralatan masinal dalam praktek kerja kayu",
+          "subkompetensi": "Kecakapan Kerja Dasar - Alat dan Keterampilan",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Komponen pada mesin penebal (thicknesser) yang berfungsi sebagai penggerak untuk menarik dan mendorong papan kayu secara otomatis melewati pisau penyayat disebut...",
+          "pilihan": [
+            "A. Cutter head",
+            "B. Feed roller",
+            "C. Hand wheel",
+            "D. Pressure bar",
+            "E. Table locking lever"
+          ],
+          "kunci": "B"
+        }
+      }
+    }
+  ]
+}
