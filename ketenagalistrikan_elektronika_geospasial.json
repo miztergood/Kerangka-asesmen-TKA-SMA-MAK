@@ -1,0 +1,232 @@
+{
+  "database_kerangka_asesmen_smk_mak": [
+    {
+      "materi": {
+        "nama": "TKA Teknik Elektronika SMK/MAK",
+        "fokus": "Teknik Elektronika",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Menjelaskan konsep pengendalian dan prosedur penanganan limbah B3, keselamatan dan kesehatan kerja (K3LH), karakteristik listrik dasar, serta mengidentifikasi rambu-rambu K3, simbol komponen, kode nilai, dan kemasan komponen."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menggunakan perkakas tangan sesuai fungsi, menerapkan prosedur pembuatan PCB (satu layer), menerapkan budaya kerja 5R, hukum dasar kelistrikan dalam perhitungan sederhana, rangkaian aplikasi elektronika dasar, komponen aktif/pasif pada rangkaian DC sederhana, serta mengukur besaran listrik menggunakan multimeter (analog dan digital) dan osiloskop."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis rangkaian seri, paralel, dan campuran, menganalisis sinyal menggunakan osiloskop, serta menganalisis persamaan logika dan penyederhanaan menggunakan Karnaugh Map."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang elektronika (waste control)",
+            "Kecakapan kerja dasar (basic job skills), K3LH, dan budaya kerja 5R",
+            "Penggunaan perkakas tangan dan pembuatan PCB",
+            "Gambar teknik (simbol komponen, skema rangkaian)",
+            "Konsep dasar kelistrikan dan elektronika (Hukum Ohm, Kirchhoff, daya)",
+            "Alat ukur listrik, elektronika, dan instrumentasi (multimeter, osiloskop)",
+            "Komponen elektronika aktif dan pasif pada rangkaian DC",
+            "Mesin-mesin listrik, elektronika, dan instrumentasi",
+            "Dasar teknik digital (sistem bilangan, gerbang logika, Karnaugh Map)"
+          ],
+          "lingkup_teknologi": "Multimeter analog/digital, osiloskop, PCB single layer, komponen pasif/aktif (resistor, kapasitor, dioda, transistor), gerbang logika dasar, dan Karnaugh Map."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Menjelaskan konsep pengendalian limbah dalam industri elektronika",
+          "subkompetensi": "Wawasan Dunia Kerja Bidang Elektronika - Waste control",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Dalam industri elektronika, pengendalian limbah (waste control) merupakan bagian penting dari industri. Manakah pernyataan berikut yang paling tepat menjelaskan konsep pengendalian limbah dalam industri elektronika?",
+          "pilihan": [
+            "A. Proses menghitung nilai limbah elektronik dalam kegiatan pengelolaan lingkungan.",
+            "B. Upaya mengurangi, mengelola, dan memproses limbah agar tidak mencemari lingkungan.",
+            "C. Kegiatan mempercepat pembuangan limbah agar tidak mengganggu proses produksi.",
+            "D. Proses merancang alat elektronik dengan biaya produksi dan hasil limbah yang paling rendah.",
+            "E. Upaya meningkatkan jumlah limbah elektronik dalam rangka efisiensi dan optimalisasi produksi."
+          ],
+          "kunci": "B"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Teknik Ketenagalistrikan SMK/MAK",
+        "fokus": "Teknik Ketenagalistrikan",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Menentukan besaran listrik dasar (tegangan, arus, hambatan, daya), mengidentifikasi komponen dan fungsi sistem tenaga listrik (pembangkit, transmisi, distribusi), fungsi komponen elektronika dasar, alat kerja kelistrikan, alat ukur, serta simbol-simbol gambar teknik listrik sesuai standar (IEC/SNI)."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan teknologi Industri 4.0 (IoT, SCADA, smart grid), regulasi/standar (PUIL/SNI), prosedur K3 dan APD, pemeliharaan alat, konsep gerbang logika dasar, komisioning/pengukuran data, serta menghitung aturan rangkaian listrik arus searah (DC) dan arus bolak-balik (AC)."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis hubungan besaran-besaran listrik (Hukum Ohm, Kirchhoff), rangkaian R-L-C dan daya AC, serta menganalisis single line diagram (SLD) sistem kelistrikan dan gambar teknik instalasi beserta potensi masalahnya."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang ketenagalistrikan (komponen sistem tenaga listrik, Industri 4.0, regulasi PUIL/SNI)",
+            "Kecakapan kerja dasar, K3, dan budaya kerja dalam pekerjaan kelistrikan",
+            "Teori dasar listrik dan elektronika (rangkaian DC, rangkaian AC, komponen pasif/aktif, gerbang logika)",
+            "Alat tangan dan alat kerja kelistrikan spesifik",
+            "Alat ukur dan alat uji kelistrikan (multimeter, clamp meter, insulation tester, earth tester)",
+            "Perangkat lunak gambar teknik listrik (simbol IEC/SNI, single line diagram)"
+          ],
+          "lingkup_teknologi": "Pembangkit/transmisi/distribusi, PUIL/SNI, SCADA/IoT, smart grid, multimeter, clamp meter, earth tester, insulation tester, dan single line diagram (SLD)."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Mengidentifikasi komponen dan fungsi sistem tenaga listrik (pembangkit, transmisi, distribusi)",
+          "subkompetensi": "Wawasan Dunia Kerja Bidang Ketenagalistrikan - Komponen sistem tenaga listrik",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Dalam alur penyaluran sistem tenaga listrik dari pembangkit hingga beban konsumen, komponen berupa Gardu Induk yang dilengkapi dengan transformator berfungsi untuk menurunkan tegangan transmisi (150 kV) menjadi tegangan distribusi (20 kV) sebelum disalurkan ke pelanggan industri dan bisnis adalah...",
+          "pilihan": [
+            "A. Generator sinkron pembangkit",
+            "B. Gardu Induk (GI) dengan transformator step-down",
+            "C. Saluran Udara Tegangan Menengah (SUTM)",
+            "D. Kapasitor bank perbaikan faktor daya",
+            "E. Panel distribusi tegangan rendah 380 V"
+          ],
+          "kunci": "B"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Teknik Energi Terbarukan SMK/MAK",
+        "fokus": "Teknik Energi Terbarukan",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Mengidentifikasi aktivitas produksi, isu-isu dan perkembangan teknologi, jenis profesi dan peluang usaha di bidang energi terbarukan, praktik kerja dasar pembangkit listrik tenaga hidro, angin, surya, dan biomassa dengan K3LH, standarisasi gambar teknik, serta jenis/fungsi alat ukur dan uji."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan aktivitas produksi dan praktik kerja dasar pada pembangkit PLTA, PLTB, PLTS, dan PLTG/Biomassa, mengoperasikan peralatan dasar, menggunakan alat ukur/uji sesuai prosedur K3LH, serta menginterpretasi gambar simbol dan sistem instalasi teknik energi terbarukan."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis aktivitas produksi, isu teknis dan lingkungan terkini, praktik kerja dasar, serta sistem perhitungan konversi energi hidro, surya, bayu (angin), dan biomassa sesuai kondisi geografis untuk merumuskan solusi pemenuhan energi ramah lingkungan."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang teknik energi terbarukan (aktivitas produksi, isu global, profesi)",
+            "Kecakapan kerja dasar (basic job skills) pembangkit listrik hidro, surya, bayu, dan biomassa",
+            "Gambar teknik instalasi dan simbol energi terbarukan",
+            "Konsep dasar dan sistem perhitungan konversi energi hidro, surya, bayu, dan biomassa",
+            "Alat ukur dan alat uji energi terbarukan"
+          ],
+          "lingkup_teknologi": "PLTS (panel surya, charge controller, inverter, baterai), PLTH/PLTA (turbin air, generator), PLTB (turbin angin), biomassa/biogas, dan instrumen pengujian daya."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Mengidentifikasi, menerapkan, dan menganalisis aktivitas produksi dalam bidang energi terbarukan",
+          "subkompetensi": "Wawasan Dunia Kerja Di Bidang Teknik Energi Terbarukan - Aktivitas produksi",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Pada sistem Pembangkit Listrik Tenaga Surya (PLTS) off-grid, urutan alur konversi energi yang paling tepat dari radiasi matahari hingga dapat digunakan oleh beban rumah tangga bertegangan AC 220 V adalah...",
+          "pilihan": [
+            "A. Panel surya → Inverter AC → Baterai → Solar Charge Controller → Beban",
+            "B. Panel surya (foton ke DC) → Solar Charge Controller → Baterai (penyimpanan DC) → Inverter (DC ke AC) → Beban",
+            "C. Panel surya → Baterai → Solar Charge Controller → Inverter → Beban",
+            "D. Inverter → Panel surya → Solar Charge Controller → Baterai → Beban",
+            "E. Panel surya → Inverter → Baterai → Solar Charge Controller → Beban"
+          ],
+          "kunci": "B"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Teknik Geospasial SMK/MAK",
+        "fokus": "Teknik Geospasial",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Memahami istilah/konsep dasar geospasial, alur proses bisnis, komponen peta (simbol, skala, legenda, koordinat x-y-z), mengidentifikasi jenis alat/teknologi dasar (GNSS, Total Station, Drone, GIS/CAD), mengklasifikasikan data spasial (vector/raster) dan jenis peta (topografi/tematik), serta aturan K3LH."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan langkah kerja survei/pemetaan dasar, prosedur K3LH (APD, 5R), penentuan posisi/koordinat (x, y, z) serta hubungan keruangan (arah/jarak), mengolah data pengukuran dasar untuk menyusun sketsa berskala, serta pengolahan dan penyajian peta sederhana."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis dampak pemilihan skala/datum/ketelitian terhadap kualitas produk pemetaan, pola/relasi keruangan, dampak kesalahan alat/data/prosedur terhadap akurasi posisi dan keterbacaan peta, serta mengevaluasi kualitas data dan risiko K3LH pada skenario kerja lapangan."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja (ekosistem industri, profesi geospasial, proses bisnis, QA/QC dasar, alat/teknologi GNSS/TS/Drone/GIS)",
+            "Kecakapan kerja dasar, K3LH, dan budaya kerja (literasi peta, koordinat x-y-z, pengukuran dasar, olah data & penyajian peta sederhana, K3LH survei)"
+          ],
+          "lingkup_teknologi": "GNSS, Total Station (TS), Drone/Fotogrametri, perangkat lunak GIS/CAD, koordinat x-y-z, data vektor/raster, dan peta topografi/tematik."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Memahami peran kerja dan alur layanan geospasial pada proyek sederhana",
+          "subkompetensi": "Wawasan Dunia Kerja - Ekosistem industri dan profil profesi geospasial",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Sebuah tim diminta membuat peta situasi sederhana untuk penataan fasilitas sekolah. Produk akhir yang diminta adalah peta sederhana dan laporan singkat. Urutan alur layanan geospasial yang paling tepat adalah...",
+          "pilihan": [
+            "A. Pengolahan data → pengumpulan data lapangan → perencanaan → pelaporan → QA/QC",
+            "B. Perencanaan → survei lapangan → pengolahan data → QA/QC → penyajian peta",
+            "C. Perencanaan → pengolahan data → penyajian peta → survei lapangan → pelaporan",
+            "D. Survei lapangan → perencanaan → QA/QC → pengolahan data → penyajian peta",
+            "E. Perencanaan → survei lapangan → penyajian peta → pengolahan data → QA/QC"
+          ],
+          "kunci": "B"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Teknik Tekstil SMK/MAK",
+        "fokus": "Teknik Tekstil",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Menjelaskan konsep dasar teknologi tekstil (jenis serat alami/buatan, pemintalan serat stapel/filamen, struktur benang, konstruksi kain tenun/rajut, proses penyempurnaan/finishing), mengidentifikasi karakteristik bahan tekstil, jenis profesi, serta sejarah dan perkembangan teknologi tekstil."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan konsep dasar teknologi tekstil dalam kegiatan praktis (identifikasi serat via uji bakar/mikroskop/pelarutan, penentuan nomor benang, pengujian antihan/kekuatan benang, identifikasi anyaman dasar polos/keper/satin), serta menggunakan prosedur dan peralatan pengujian tekstil."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis hubungan antara jenis bahan tekstil, struktur benang/kain, dan proses produksi dengan sifat serta kualitas produk tekstil, serta mengevaluasi hasil pengujian/konstruksi kain untuk menentukan kesesuaian mutu dan proses industri."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang industri tekstil (proses bisnis hulu-hilir, profesi, budaya kerja)",
+            "Sejarah dan perkembangan teknologi tekstil (mekanisasi, otomatisasi, tekstil fungsional)",
+            "Pengetahuan teknologi tekstil (pemintalan serat, pembuatan kain tenun & rajut, penyempurnaan/finishing)",
+            "Identifikasi serat tekstil (mikroskop, uji bakar, pelarutan)",
+            "Identifikasi benang (nomor benang Ne1/Tex, antihan, kekuatan tarik)",
+            "Identifikasi kain (klasifikasi kain tenun/rajut, anyaman dasar polos/keper/satin, pengujian tetal/mengkeret/berat kain)"
+          ],
+          "lingkup_teknologi": "Uji mikroskopik, uji bakar, uji pelarutan, pengujian nomor benang (Ne1/Tex), pengujian kekuatan tarik & antihan, alat uji tetal/mengkeret kain, mesin pemintalan, pertenunan, perajutan, dan penyempurnaan tekstil."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Mengidentifikasi dan menerapkan peran profesi pada industri tekstil",
+          "subkompetensi": "Wawasan Dunia Kerja Bidang Industri Tekstil - Jenis profesi dan budaya kerja",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Di sebuah pabrik tekstil, seorang staf bertanggung jawab melakukan perawatan rutin, pemeriksaan berkala, dan perbaikan terhadap mesin-mesin pemintalan serta pertenunan agar garis produksi tetap beroperasi secara optimal. Jenis profesi yang sesuai dengan tanggung jawab tersebut adalah...",
+          "pilihan": [
+            "A. Operator Produksi",
+            "B. Teknisi Mesin Tekstil",
+            "C. Quality Control",
+            "D. Desainer Tekstil",
+            "E. Supervisor Produksi"
+          ],
+          "kunci": "B"
+        }
+      }
+    }
+  ]
+}
