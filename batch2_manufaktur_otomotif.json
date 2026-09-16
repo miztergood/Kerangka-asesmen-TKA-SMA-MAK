@@ -1,0 +1,232 @@
+{
+  "database_kerangka_asesmen_smk_mak": [
+    {
+      "materi": {
+        "nama": "TKA Teknik Mesin SMK/MAK",
+        "fokus": "Teknik Mesin",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Menjelaskan jenis-jenis bahan teknik manufaktur (ferrous, non-ferrous, komposit dasar) dan transmisi mesin (roda gigi, sabuk-puli, rantai) serta mengidentifikasi bahaya di tempat kerja dan jenis sambungan."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan praktik kerja aman, prosedur darurat, budaya kerja industri (5R), teknologi cutting dan non-cutting dasar, standarisasi gambar teknik, penggunaan alat ukur (jangka sorong, mikrometer) dan perkakas tangan/bertenaga sesuai SOP, serta pengoperasian pemesinan dasar dan pengelasan SMAW posisi datar."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis sifat-sifat bahan (kekerasan, keuletan, ketahanan beban kejut/fatigue), fungsi bahan manufaktur, jenis sambungan dan tumpuan (bushing & bearing), sistem transmisi, gambar proyeksi/CADD, serta mengevaluasi efektivitas proses pemesinan dasar dan pengelasan."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Kecakapan kerja dasar (basic job skills), K3, dan budaya kerja",
+            "Teknik dasar proses produksi pada bidang manufaktur mesin",
+            "Pengetahuan bahan (material science)",
+            "Dasar sistem mekanik",
+            "Gambar teknik dan CADD"
+          ],
+          "lingkup_teknologi": "Proses bubut, frais, bor, gerinda, bending, pengelasan SMAW, perkakas tangan & bertenaga, jangka sorong, mikrometer, transmisi mesin, dan perangkat lunak CADD."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Menjelaskan dan menganalisis pemilihan jenis bahan teknik berdasarkan sifat keuletan dan ketahanan terhadap beban dinamis/kejut",
+          "subkompetensi": "Pengetahuan Bahan - Sifat-sifat Bahan",
+          "bentuk": "Pilihan Ganda Kompleks (Kategori)",
+          "pertanyaan": "Dalam proses perancangan poros mesin di sebuah bengkel, seorang siswa diminta memilih bahan yang mampu menahan beban puntir dan bekerja secara terus-menerus. Ia memilih bahan yang memiliki tingkat kekerasan sangat tinggi, tetapi bersifat getas. Setelah digunakan, poros tersebut mengalami retak saat menerima beban kejut. Berdasarkan kasus tersebut, tentukan kebenaran pernyataan berikut:\n1) Bahan yang sangat keras selalu cocok untuk poros mesin.\n2) Bahan getas berisiko retak saat menerima beban kejut.\n3) Poros membutuhkan bahan yang ulet dan tahan fatigue (kerusakan material).",
+          "pilihan": [
+            "A. 1-Salah, 2-Benar, 3-Benar",
+            "B. 1-Benar, 2-Salah, 3-Benar",
+            "C. 1-Benar, 2-Benar, 3-Salah",
+            "D. 1-Salah, 2-Salah, 3-Benar",
+            "E. 1-Benar, 2-Benar, 3-Benar"
+          ],
+          "kunci": "A"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Teknik Otomotif SMK/MAK",
+        "fokus": "Teknik Otomotif",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Memahami wawasan industri otomotif, perkembangan teknologi (hybrid, electric, autonomous), karakteristik & fungsi komponen utama/tambahan mesin, kelistrikan, hidrolik, pneumatik, serta mengidentifikasi profesi dan toleransi hasil pengukuran."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan langkah teknis perawatan & perbaikan komponen otomotif (mesin, sistem rem, kemudi, transmisi), prosedur K3, APD, budaya kerja 5R, penggunaan alat ukur (multimeter, feeler gauge, dial gauge) dan alat diagnosis (scan tool, compression tester), serta menginterpretasikan manual servis dan gambar teknik."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis gambar teknik otomotif dan potensi bahaya bengkel, memecahkan masalah (troubleshooting) pada sistem otomotif (mesin, kelistrikan, hidrolik/pneumatik), serta mengevaluasi kelayakan alat bengkel dan hasil pengukuran."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia otomotif",
+            "Kecakapan kerja dasar (basic job skills), K3, dan budaya kerja",
+            "Gambar teknik otomotif",
+            "Peralatan dan perlengkapan tempat kerja",
+            "Dasar kelistrikan dan elektronika otomotif",
+            "Komponen otomotif (mesin konversi energi)",
+            "Dasar sistem hidrolik dan pneumatik"
+          ],
+          "lingkup_teknologi": "Inovasi kendaraan hybrid & listrik, Hukum Pascal pada sistem hidrolik, Hukum Ohm pada kelistrikan, ECU, sensor otomotif, siklus 4-langkah, alat scan tool, multimeter, dan dial gauge."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Memahami dan menerapkan prinsip dasar sistem hidrolik berdasarkan Hukum Pascal pada peralatan bengkel otomotif",
+          "subkompetensi": "Dasar Sistem Hidrolik dan Pneumatik - Prinsip Dasar Hidrolik",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Sebuah dongkrak hidrolik memiliki perbandingan luas penampang piston kecil dan piston besar sebesar 1 : 50. Jika pada piston kecil diberikan gaya tekan sebesar 200 N, berapakah beban maksimal yang mampu diangkat oleh piston besar?",
+          "pilihan": [
+            "A. 1.000 N",
+            "B. 4.000 N",
+            "C. 10.000 N",
+            "D. 25.000 N",
+            "E. 50.000 N"
+          ],
+          "kunci": "C"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Teknik Pengelasan dan Fabrikasi Logam SMK/MAK",
+        "fokus": "Teknik Pengelasan dan Fabrikasi Logam",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Memahami bidang pekerjaan pengelasan dan fabrikasi logam pada industri (konstruksi baja, perpipaan, perkapalan, bejana tekan, sheet metal), wirausaha bengkel las, K3LH, APD, 5R, serta pemeriksaan visual hasil pengelasan (undercut, porosity, overlap, spatter, penetrasi)."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan perkakas tangan & bertenaga, K3LH, 5R, gambar tanda pengerjaan las (AWS/ISO), gambar CAD 2D/3D dasar, pemotongan dengan panas (thermal cutting: gas & plasma), serta pengelasan SMAW pelat baja karbon posisi di bawah tangan (1F/1G) sesuai WPS."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis gambar simbol las, penggunaan peralatan thermal cutting, proses pengelasan SMAW, penyebab cacat pengelasan, serta menginspeksi visual dan menentukan solusi perbaikan kualitas sambungan las."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang pengelasan dan fabrikasi logam",
+            "Kecakapan kerja dasar (basic job skill), K3LH, dan budaya kerja",
+            "Gambar teknik dan CAD dasar",
+            "Penggunaan perkakas bengkel dan thermal cutting",
+            "Pengelasan SMAW dasar dan inspeksi visual"
+          ],
+          "lingkup_teknologi": "Mesin las SMAW (inverter/transformer, AC/DC, polaritas DCEP/DCEN), kode elektroda (E6010, E6013, E7018), pemotongan oxy-acetylene & plasma cutting, welding gauge, dan gambar teknik AWS/ISO."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Memahami dan menganalisis pemeriksaan hasil pengelasan SMAW secara visual serta mengidentifikasi penyebab cacat las",
+          "subkompetensi": "Pengelasan SMAW Dasar - Pemeriksaan Visual",
+          "bentuk": "Pilihan Ganda Kompleks (MCMA)",
+          "pertanyaan": "Seorang welder menyambung dua pelat besi tebal dengan teknik SMAW. Setelah selesai, ditemukan permukaan hasil lasnya sangat kasar, tidak rata, dan terdapat banyak percikan logam (spatter) yang menempel keras di sekitar jalur las. Manakah pernyataan analisis yang tepat terkait kondisi tersebut? (Jawaban benar lebih dari satu)\n1) Arus pengelasan yang digunakan terlalu tinggi sehingga menghasilkan spatter berlebih.\n2) Jarak busur (arc length) yang terlalu panjang menyebabkan busur tidak stabil dan permukaan las kasar.\n3) Kecepatan pengelasan yang terlalu lambat menjadi satu-satunya penyebab utama spatter.\n4) Spatter tidak perlu dibersihkan karena tidak mempengaruhi kualitas visual.\n5) Kondisi permukaan yang kasar menyulitkan proses inspeksi visual selanjutnya.",
+          "pilihan": [
+            "A. Pernyataan 1, 2, dan 5",
+            "B. Pernyataan 1, 3, dan 4",
+            "C. Pernyataan 2, 3, dan 5",
+            "D. Pernyataan 1, 4, dan 5",
+            "E. Pernyataan 2, 4, dan 5"
+          ],
+          "kunci": "A"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Teknik Logistik SMK/MAK",
+        "fokus": "Teknik Logistik",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Mengidentifikasi tahapan alur proses logistik (inbound-process-outbound), aktivitas rantai pasok, menjelaskan konsep K3LH, 5R, administrasi dokumen pengadaan, serta mengartikan istilah operasional dasar (FIFO, LIFO, lead time, receiving, picking, packing)."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan SOP operasional pergudangan, penerimaan, penyimpanan, dan pengeluaran barang, pengarsipan dokumen manual/elektronik, penggunaan APD, penataan 5R, serta standar komunikasi layanan pelanggan."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis penyebab permasalahan operasional logistik (keterlambatan pengiriman, ketidaksesuaian stok, kesalahan dokumen, keluhan pelanggan), membandingkan alternatif tindakan, dan menentukan solusi operasional yang efisien."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang teknik logistik dan supply chain",
+            "Kecakapan kerja dasar (basic job skills), K3, dan budaya kerja (5R)",
+            "Kegiatan administrasi dokumen dan operasional pengadaan",
+            "Pelayanan pelanggan",
+            "Pengelolaan gudang dan perbaikan lingkungan kerja",
+            "Teknik distribusi barang"
+          ],
+          "lingkup_teknologi": "Alur inbound-process-outbound, barcode, RFID, e-commerce, pengarsipan digital, metode FIFO/LIFO, moda transportasi distribusi, dan konsep Kaizen/5R."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Menganalisis alur proses bisnis logistik sederhana pada industri pergudangan dan e-commerce",
+          "subkompetensi": "Wawasan Dunia Bidang Teknik Logistik - Proses Bisnis",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Sebuah perusahaan e-commerce menerima barang dari pemasok untuk disimpan di gudang, kemudian barang diproses dan dikirim kepada pelanggan sesuai pesanan. Urutan alur proses bisnis logistik yang tepat pada kegiatan tersebut adalah...",
+          "pilihan": [
+            "A. Outbound → Proses → Inbound",
+            "B. Inbound → Proses → Outbound",
+            "C. Proses → Outbound → Inbound",
+            "D. Distribusi → Produksi → Konsumsi",
+            "E. Penyimpanan → Produksi → Pengiriman"
+          ],
+          "kunci": "B"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Teknik Pesawat Udara SMK/MAK",
+        "fokus": "Teknik Pesawat Udara",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Mengidentifikasi ketentuan CASR (Part 21, 39, 43, 65, 145, 147), spesifikasi material & hardware pesawat udara; menjelaskan flight control surfaces, gaya aerodinamika, Hukum Newton & Kekekalan Energi pada powerplant, serta prinsip kerja Piston Engine dan Gas Turbine Engine."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan K3 di hanggar, budaya kerja, kecakapan dasar (basic skill MRO), penggunaan hand tools, power tools, torque wrench, safety wire, alat ukur mekanik & kelistrikan dasar; membaca manual maintenance dan menggambarkan prinsip kerja flight control, instrument, pneumatic & hydraulic system."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menelaah proyeksi gambar teknik pesawat, mengorelasikan Prinsip Bernoulli & aerodinamika (lift, drag, thrust, weight), menganalisis jenis konstruksi struktur pesawat (monocoque, semi-monocoque), serta menganalisis kelistrikan & avionik dasar untuk penanganan masalah kelaikudaraan."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang penerbangan, K3 hanggar, dan CASR",
+            "Teknik dasar proses perawatan dan gambar teknik pesawat udara",
+            "Theory of flight, Aircraft structure, dan Power plant",
+            "Aircraft material, hardware, dan tools equipment",
+            "Aircraft system (electrical, electronic, flight control, pneumatic, hydraulic)"
+          ],
+          "lingkup_teknologi": "Standar CASR MRO (Part 145/147), torque wrench, safety wire, struktur semi-monocoque, Piston & Gas Turbine Engine (compressor, combustion chamber, turbine, exhaust), Prinsip Bernoulli, dan instrumen avionik dasar."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Menjelaskan fungsi komponen utama gas turbine engine pada tenaga pendorong (powerplant) pesawat udara",
+          "subkompetensi": "Power Plant - Gas Turbine Engine",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Pada sistem tenaga pendorong pesawat udara jenis Gas Turbine Engine, komponen yang berfungsi khusus untuk mencampurkan udara bertekanan dengan bahan bakar kemudian melakukan proses pembakaran adalah...",
+          "pilihan": [
+            "A. Air inlet",
+            "B. Combustion chamber",
+            "C. Compressor",
+            "D. Turbine",
+            "E. Exhaust"
+          ],
+          "kunci": "B"
+        }
+      }
+    }
+  ]
+}
