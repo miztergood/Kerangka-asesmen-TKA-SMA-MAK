@@ -1,0 +1,228 @@
+{
+  "database_kerangka_asesmen_smk_mak": [
+    {
+      "materi": {
+        "nama": "TKA Kimia Analisis SMK/MAK",
+        "fokus": "Kimia Analisis",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Mengidentifikasi fakta, konsep, dan prinsip dasar laboratorium, regulasi K3LH, budaya kerja 5R, serta prinsip dasar analisis kuantitatif (titrimetri, gravimetri), mikrobiologi, dan kimia organik/anorganik."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan prosedur kerja laboratorium untuk preparasi sampel, perhitungan dan pembuatan larutan pereaksi/standar, pelaksanaan uji kuantitatif (titrasi, gravimetri), serta teknik dasar mikrobiologi dan kimia instrumen."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis data hasil uji laboratorium, memprediksi hasil analisis, mengevaluasi kesesuaian dengan standar mutu, serta mendeteksi kesalahan prosedural (troubleshooting) dalam analisis."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Kecakapan kerja dasar, K3, budaya kerja, dan pengelolaan laboratorium kimia",
+            "Larutan pereaksi, larutan standar, analisis kualitatif dan kuantitatif sederhana",
+            "Analisis titrimetri dan gravimetri",
+            "Analisis bahan organik dan anorganik",
+            "Analisis kimia instrumen dan mikrobiologi"
+          ],
+          "lingkup_teknologi": "Titrimetri, gravimetri, spektrofotometri, kromatografi, elektrokimia, sterilisasi autoklaf, pembuatan media kultur, Total Plate Count (TPC), dan pengelolaan K3/B3 laboratorium."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Menerapkan prinsip dan prosedur titrasi penetralan dan titrasi reduksi oksidasi",
+          "subkompetensi": "Analisis Titrimetri dan Gravimetri - Analisis Titrimetri",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Seorang murid akan melakukan standarisasi larutan HCl menggunakan boraks (Na₂B₄O₇·10H₂O) sebagai standar primer. Sebanyak 0,381 gram boraks ditimbang dengan teliti, kemudian dilarutkan dalam 100 mL akuades, dipipet 10 mL dan dititrasi dengan larutan HCl menggunakan indikator metil merah. Volume HCl yang diperlukan untuk mencapai titik akhir titrasi adalah 20,00 mL. Jika diketahui Mr (Na₂B₄O₇·10H₂O) = 381 g/mol, maka konsentrasi HCl yang diperoleh adalah...",
+          "pilihan": [
+            "A. 0,050 M",
+            "B. 0,075 M",
+            "C. 0,100 M",
+            "D. 0,150 M",
+            "E. 0,200 M"
+          ],
+          "kunci": "A"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Teknik Kimia Industri SMK/MAK",
+        "fokus": "Teknik Kimia Industri",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Menjelaskan proses bisnis kimia industri secara menyeluruh (teknologi konvensional hingga modern), mengenali jenis-jenis profesi (teknisi proses, analis kimia, QA, R&D), serta mengidentifikasi prinsip dasar kimia organik/anorganik dan simbol bahaya MSDS."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan penggunaan peralatan dasar laboratorium (gelas/non-gelas), teknik sterilisasi basah/kering, pembuatan media mikrobiologi, analisis titrimetri/gravimetri, serta perhitungan stoikiometri dan konversi satuan."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis data hasil uji laboratorium, mengevaluasi efektivitas proses sterilisasi/validasi proses, merancang solusi pengelolaan limbah B3/non-B3, serta memprediksi dampak aktivitas industri terhadap lingkungan."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan kerja bidang teknik kimia industri",
+            "Kecakapan kerja dasar (basic job skill), K3, budaya kerja",
+            "Dasar kimia (organik & anorganik)",
+            "Dasar mikrobiologi",
+            "Teknik dasar pekerjaan laboratorium"
+          ],
+          "lingkup_teknologi": "Proses produksi kimia, neraca massa & energi, reaksi sintesis, sterilisasi autoklaf, analisis titrimetri & gravimetri, pengelolaan limbah B3, dan Material Safety Data Sheet (MSDS)."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Menjelaskan alur bisnis menyeluruh di bidang kimia industri",
+          "subkompetensi": "Wawasan Kerja Bidang Teknik Kimia Industri - Proses Bisnis Industri Kimia",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Dalam industri manufaktur pembuatan amonia (NH3), seluruh tahapan produksi harus disusun secara sistematis guna menjamin efisiensi proses dan kualitas produk akhir. Manakah urutan berikut yang paling tepat dalam menggambarkan alur proses bisnis produksi pada industri kimia tersebut?",
+          "pilihan": [
+            "A. Pemasaran → Pengadaan bahan baku → Reaksi sintesis → Pengemasan",
+            "B. Persiapan bahan baku → Reaksi sintesis → Pemisahan/Pemurnian → Penyimpanan & Distribusi",
+            "C. Pemurnian produk → Pengadaan katalis → Penjualan → Penanganan limbah",
+            "D. Reaksi kimia → Pembersihan area kerja → Persiapan bahan baku → Distribusi",
+            "E. Pengemasan → Reaksi sintesis → Pengadaan bahan baku → Pemasaran"
+          ],
+          "kunci": "B"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Teknik Geologi Pertambangan SMK/MAK",
+        "fokus": "Teknik Geologi Pertambangan",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Mengidentifikasi jenis profesi/jabatan di bidang pertambangan, perkembangan teknologi (IoT, drone, AI, software pemodelan), ruang lingkup geologi, bagian-bagian bumi, serta metode dan tahapan penambangan."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menginterpretasi gambar proyeksi 2D/3D, komponen peta topografi (skala, kontur), jenis batuan (genesa batuan), serta menerapkan prosedur K3LH, budaya kerja 5R, dan penggunaan peralatan geologi lapangan."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis gambar proyeksi, gaya geologi, bentang alam, data hasil pengukuran peralatan lapangan, serta mengevaluasi permasalahan teknis pada tahapan eksplorasi, eksploitasi, dan pengolahan bahan galian."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang geologi pertambangan",
+            "Kecakapan kerja dasar, K3LH, dan budaya kerja 5R",
+            "Gambar teknik geologi dan pengetahuan dasar peta",
+            "Dasar-dasar geologi",
+            "Teknik dasar penambangan"
+          ],
+          "lingkup_teknologi": "Peta topografi, kompas/palu geologi, GPS, proyeksi orthogonal/piktorial, genesa batuan, eksplorasi/eksploitasi/pengolahan, serta metode open pit / underground mining."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Mengidentifikasi jenis profesi/jabatan di bidang pertambangan secara tepat",
+          "subkompetensi": "Wawasan Dunia Kerja Bidang Geologi Pertambangan - Jenis Profesi/Jabatan",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Di sebuah tambang terbuka nikel, alat berat ekskavator tiba-tiba mengeruk lapisan batuan yang kadar mineralnya meragukan, diduga waste atau batuan limbah, bukan bijih nikel ekonomis. Operator alat berat segera menghentikan aktivitas pemuatan ke truk. Berdasarkan struktur organisasi kerja pertambangan, profesi/jabatan manakah yang paling berwenang untuk datang ke lokasi pit guna melakukan pengecekan kadar (sampling cepat) dan memutuskan apakah penggalian boleh dilanjutkan?",
+          "pilihan": [
+            "A. Mine Plan Engineer (Insinyur Perencanaan Tambang)",
+            "B. Grade Controller Geologist (Geologis Pengontrol Kadar)",
+            "C. Safety Officer (Pengawas Keselamatan Kerja)",
+            "D. Surveyor Tambang (Juru Ukur Batas Tambang)",
+            "E. Mine Shift Supervisor (Pengawas Operasional/Supervisor Produksi)"
+          ],
+          "kunci": "B"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Teknik Perminyakan SMK/MAK",
+        "fokus": "Teknik Perminyakan",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Memahami tahapan kegiatan industri hulu-hilir migas (eksplorasi, pemboran, produksi, pengolahan, distribusi), geologi perminyakan (petroleum system), jenis metode produksi, serta sistem utilitas kilang."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan penggunaan APD dan K3/HSE migas, mengoperasikan 5 sistem pemboran, mengurutkan tahapan rig-up/rig-down, mobilisasi/demobilisasi, mengoperasikan alat ukur (tekanan, suhu, level), serta menghitung volume/level cairan tangki."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis konsep kewirausahaan migas, sifat fluida produksi (minyak, gas, air), jenis rig dan peralatan pemboran yang dimobilisasi, serta mengevaluasi potensi bahaya fisik, kimia, dan mekanik di area kerja migas."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang teknik perminyakan",
+            "Kecakapan kerja dasar, K3LH, geologi dasar & petroleum system",
+            "Teknik pemboran minyak dan gas bumi",
+            "Teknik produksi minyak dan gas bumi",
+            "Teknik pengolahan minyak, gas, dan petrokimia serta alat ukur & utilitas"
+          ],
+          "lingkup_teknologi": "Rig pemboran (land/offshore rig), 5 sistem pemboran, separator (massa jenis/tekanan/gravitasi), alat ukur level/DP/ultrasonic, API gravity, dan sistem utilitas (air compressor, steam boiler, cooling water)."
+        },
+        "contoh_soal": {
+          "nomor": 4,
+          "kompetensi": "Mengurutkan dan mengidentifikasi jenis metode, peralatan produksi, dan sistem penyelesaian sumur",
+          "subkompetensi": "Teknik Produksi Minyak dan Gas Bumi - Metode dan Sistem Penyelesaian Sumur",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Sebuah sumur minyak memiliki tekanan reservoir yang masih cukup besar sehingga fluida dapat mengalir secara alami ke permukaan tanpa memerlukan bantuan alat pengangkatan buatan. Kondisi tersebut menunjukkan bahwa energi alami reservoir masih mampu mengalirkan fluida secara mandiri. Metode produksi yang paling sesuai untuk kondisi tersebut adalah...",
+          "pilihan": [
+            "A. Gas lift",
+            "B. Artificial lift dengan pompa angguk",
+            "C. Natural flow (sembur alam)",
+            "D. Electric submersible pump (ESP)",
+            "E. Hydraulic pumping"
+          ],
+          "kunci": "C"
+        }
+      }
+    },
+    {
+      "materi": {
+        "nama": "TKA Teknik Konstruksi Kapal SMK/MAK",
+        "fokus": "Teknik Konstruksi Kapal",
+        "kompetensi": [
+          {
+            "nama": "Pengetahuan dan Pemahaman (Knowing & Understanding)",
+            "deskripsi": "Mengetahui alur proses perencanaan, perancangan, dan produksi konstruksi kapal pada industri manufaktur & rekayasa perkapalan, sistem konstruksi (melintang/modular), serta profesi/jabatan strategis di galangan kapal."
+          },
+          {
+            "nama": "Aplikasi (Applying)",
+            "deskripsi": "Menerapkan pekerjaan dasar perkapalan, mengoperasikan alat ukur (jangka sorong) & perkakas bertenaga (gerinda), menerapkan K3LH (APD, rambu K3), serta menerapkan perintah dasar CAD 2D/3D untuk gambar basic design & proyeksi/potongan."
+          },
+          {
+            "nama": "Penalaran (Reasoning)",
+            "deskripsi": "Menganalisis perencanaan konstruksi dan bahan kapal, jenis kapal (kargo, tanker, tugboat), ukuran utama kapal (LPP, LWL, CB, DWT), serta mengevaluasi keselamatan & stabilitas pada proses produksi dan pengedokan."
+          }
+        ],
+        "contoh_materi": {
+          "elemen_muatan": [
+            "Wawasan dunia kerja bidang perkapalan",
+            "Kecakapan kerja dasar (basic job skills), budaya kerja, dan K3LH",
+            "Gambar teknik perkapalan (proyeksi & potongan)",
+            "Gambar basic design dengan CAD"
+          ],
+          "lingkup_teknologi": "CAD 2D/3D, konstruksi melintang/modular, gading/wrang/blok, dok kolam/airbag, ukuran utama kapal (LPP, LWL, DWT, CB), alat ukur presisi, dan kargo/tanker/tugboat."
+        },
+        "contoh_soal": {
+          "nomor": 1,
+          "kompetensi": "Menganalisis perencanaan konstruksi kapal dan bahan pembuatan kapal",
+          "subkompetensi": "Wawasan Dunia Kerja Bidang Perkapalan - Perencanaan Konstruksi Kapal",
+          "bentuk": "Pilihan Ganda",
+          "pertanyaan": "Sebuah perusahaan pelayaran merencanakan pembangunan kapal baru yang akan digunakan untuk mengangkut minyak antarpulau. Kapal tersebut harus memiliki konstruksi yang mampu menjaga stabilitas muatan cair, mengurangi efek permukaan bebas (free surface effect), serta memaksimalkan kapasitas ruang muat dengan tetap memperhatikan keamanan operasional kapal. Berdasarkan kebutuhan tersebut, maka perencanaan konstruksi kapal yang paling tepat adalah...",
+          "pilihan": [
+            "A. Kapal dilengkapi sekat memanjang dan sekat melintang, serta kamar mesin ditempatkan di bagian belakang kapal",
+            "B. Kapal menggunakan ruang muat terbuka tanpa sekat memanjang supaya muatan mudah dipindahkan",
+            "C. Kapal dirancang dengan ruang palka menggunakan sistem cell guide, serta mesin ditempatkan di bagian tengah kapal",
+            "D. Kapal memiliki palka besar tanpa pembagian ruang agar muatan lebih mudah dimuat",
+            "E. Kapal menggunakan geladak terbuka dengan penguat khusus"
+          ],
+          "kunci": "A"
+        }
+      }
+    }
+  ]
+}
